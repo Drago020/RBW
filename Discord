@@ -25,13 +25,13 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#dd3747"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
             "#dd3747"
         ],
         "INTERACTIVE_HOVER": [
-            "#dd3747"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
@@ -86,7 +86,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#be2435"
+            "#80696969"
         ],
 		
 		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
@@ -120,13 +120,13 @@
             "#cc0000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#dd3747"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
             "#ffffff"
         ],
         "TEXT_LINK": [
-            "#3a3a3a"
+            "#5a5a5a"
         ],
         "TEXT_DANGER": [
             "#fff01f"
