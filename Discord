@@ -5,85 +5,213 @@
     "authors": [
         {
             "name": "tu__r__bo",
-            "id": "716941151386599464"
+            "id": "288054683161853952"
         }
     ],
     "semanticColors": {
-        "ACTIVITY_CARD_BACKGROUND": ["#000000"],
-        "BACKGROUND_ACCENT": ["#000000"],
-        "BACKGROUND_MENTIONED": ["#DD273727"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#000000"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#545454"],
-        "BACKGROUND_PRIMARY": ["#000000"],
-        "BACKGROUND_SECONDARY": ["#000000"],
-        "BACKGROUND_TERTIARY": ["#000000"],
-        "BG_BASE_PRIMARY": ["#121111"],
-        "BG_BASE_SECONDARY": ["#121111"],
-        "CARD_PRIMARY_BG": ["#000000"],
-        "CHANNEL_ICON": ["#DD3747"],
-        "INTERACTIVE_ACTIVE": ["#E4E5E8"],
-        "INTERACTIVE_HOVER": ["#2C2E2C"],
-        "TEXT_PRIMARY": ["#DDDEE1"],
-        "TEXT_SECONDARY": ["#ABABAB"],
-        "TEXT_MUTED": ["#818491"],
-        "TEXT_LINK": ["#DD3747"],
-        "STATUS_DANGER": ["#DD3747"],
-        "STATUS_DANGER_TEXT": ["#FFFFFF"]
-    },
+        "HEADER_PRIMARY": [
+            "#dd3747"
+        ],
+        "HEADER_SECONDARY": [
+            "#cc0000"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+	"TEXT_SECONDARY": [
+            "#ffffff"
+        ],
+	"TEXT_PRIMARY": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#dd3747"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#dd3747"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#dd3747"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#cc0000"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#dd3747"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_SECONDARY_BORDER": [
+		"#cc0000"
+		],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#dd3747"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#be2435"
+        ],
+		
+		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
+		"#dd3747"
+		],
+		"BUTTON_OUTLINE_BRAND_BOARDER":[
+		"#dd3747"
+		],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#000000"
+      ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+      ],
+	  "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#000000"
+      ],
+	  "BG_BASE_PRIMARY":[
+	  "#000000"
+		],
+        "SCROLLBAR_THIN_THUMB": [
+            "#cc0000"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#cc0000"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#cc0000"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#dd3747"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#cc0000"
+        ],
+        "TEXT_LINK": [
+            "#cc0000"
+        ],
+        "TEXT_DANGER": [
+            "#FF5F1F"
+        ],
+        "KEYBOARD": [
+            "#cc0000"
+        ],
+        "CHANNEL_ICON": [
+            "#dd3747"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+      ],
+	"CARD_PRIMARY_BG": [
+	    "#000000"
+	],
+"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+"#dd3747"
+],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#000000",
+      "#000000",
+      "#000000"
+	   ]
+        },
     "rawColors": {
-        "BLUE_345": "#DD3747",
-        "BRAND_230": "#DD3747",
-        "BRAND_500": "#DD3747",
-        "BRAND_560": "#DDDEE1",
-        "PRIMARY_100": "#EAEAEE",
-        "PRIMARY_130": "#DDDEE1",
-        "PRIMARY_230": "#8F669C",
-        "PRIMARY_300": "#CE7DA0",
-        "PRIMARY_345": "#DD3747",
-        "PRIMARY_360": "#FEF0F8",
-        "PRIMARY_400": "#CE7DA0",
-        "PRIMARY_430": "#FB7B25",
-        "PRIMARY_460": "#DD2737",
-        "PRIMARY_500": "#8F669C",
-        "PRIMARY_600": "#121111",
-        "RED_260": "#DD3747",
-        "RED_400": "#FB7B25",
-        "RED_530": "#DD3747",
-        "PLUM_1": "#F3F3F4",
-        "PLUM_10": "#818491",
-        "PLUM_11": "#5A4D5E",
-        "PLUM_13": "#DD3747",
-        "PLUM_17": "#DD2737",
-        "PLUM_20": "#121111",
-        "PLUM_22": "#DD2737",
-        "YELLOW_100": "#DD3747",
-        "YELLOW_600": "#DD3747",
-        "YELLOW_900": "#DD3747",
-        "WHITE_500": "#FFFFFF",
-        "WHITE_630": "#969696"
+        "PRIMARY_100": "#dd3747",
+        "PRIMARY_200": "#dd3747",
+		"PRIMARY_230": "#dd3747",
+        "PRIMARY_300": "#cc0000",
+        "PRIMARY_360": "#dd3747",
+        "PRIMARY_400": "#dd3747",
+		"PRIMARY_500": "#dd3747",
+		"PRIMARY_560": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+		"PRIMARY_645": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#cc0000",
+        "BRAND_360": "#cc0000",
+        "BRAND_500": "#be2435",
+        "BRAND_560": "#cc0000",
+        "YELLOW_300": "#cc0000",
+        "GREEN_600": "#dd3747",
+        "RED_400": "#dd3747",
+        "WHITE_500": "#cc0000",
+		"WHITE_630": "#dd3747",   
+        "GREEN_360": "#dd3747",
+		"PLUM_1": "#cc0000",
+		"PLUM_3": "#dd3747",
+		"PLUM_6": "#dd3747",
+		"PLUM_10": "#dd3747",
+		"PLUM_11": "#000000",
+		"PLUM_15": "#dd3747",
+		"PLUM_17": "#be2435",
+  "PLUM_18": "#be2435",
+  "PLUM_19": "#000000",
+		"PLUM_20": "#000000",
+		"PLUM_26": "#dd2737",
+		"PLUM_22": "#000000",
+		"PLUM_24": "#000000"
+		
+		   
     },
     "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-BoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-ExtraBoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-MediumItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "ggsans-SemiboldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "NotoSans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "NotoSans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "NotoSans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "NotoSans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "NotoSans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1",
-        "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Kanit-500.ttf?raw=1"
+        "ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1"
     },
     "spec": 2
 }
