@@ -1,4 +1,4 @@
-{
+7{
     "name": "Discordhub",
     "description": "yes",
     "version": "2",
@@ -190,4 +190,7 @@
     "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
     "NotoSans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
     "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1"
-    }
+     },	
+	
+    "spec": 2
+}
