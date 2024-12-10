@@ -9,284 +9,185 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#dd3747"
-        ],
-        "HEADER_SECONDARY": [
-            "#ffffff"
-        ],
-        "TEXT_NORMAL": [
-            "#ffffff"
-        ],
-	"TEXT_SECONDARY": [
-            "#ffffff"
-        ],
-	"TEXT_PRIMARY": [
-            "#ffffff"
-        ],
-        "TEXT_MUTED": [
-            "#ffffff"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#dd3747"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#ffffff"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#ffffff"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#dd3747"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
-        ],
-		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-		"#ffffff"
-		],
-        "BACKGROUND_TERTIARY": [
-            "#000000"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#000000"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#ffffff"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#80696969"
-        ],
-		
-		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
-		"#dd3747"
-		],
-		"BUTTON_OUTLINE_BRAND_BOARDER":[
-		"#dd3747"
-		],
-        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#000000"
-      ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#000000"
-      ],
-	  "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "#000000"
-      ],
-	  "BG_BASE_PRIMARY":[
-	  "#000000"
-		],
-        "SCROLLBAR_THIN_THUMB": [
-            "#cc0000"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#cc0000"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#cc0000"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#000000"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#ffffff"
-        ],
-        "TEXT_LINK": [
-            "#5a5a5a"
-        ],
-        "TEXT_DANGER": [
-            "#fff01f"
-        ],
-        "KEYBOARD": [
-            "#cc0000"
-        ],
-        "CHANNEL_ICON": [
-            "#dd3747"
-        ],
-        "CHAT_BACKGROUND": [
-            "#000000"
-      ],
-	"CARD_PRIMARY_BG": [
-	    "#000000"
-	],
-"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-"#dd3747"
-],
-    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#000000",
-      "#000000",
-      "#000000"
-	   ]
-        },
+        "HEADER_PRIMARY": ["#dd3747"],
+        "HEADER_SECONDARY": ["#ffffff"],
+        "TEXT_NORMAL": ["#ffffff"],
+        "TEXT_SECONDARY": ["#ffffff"],
+        "TEXT_PRIMARY": ["#ffffff"],
+        "TEXT_MUTED": ["#ffffff"],
+        "INTERACTIVE_NORMAL": ["#dd3747"],
+        "INTERACTIVE_HOVER": ["#ffffff"],
+        "INTERACTIVE_ACTIVE": ["#ffffff"],
+        "INTERACTIVE_MUTED": ["#dd3747"],
+        "BACKGROUND_PRIMARY": ["#000000"],
+        "BACKGROUND_SECONDARY": ["#000000"],
+        "BACKGROUND_SECONDARY_ALT": ["#000000"],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": ["#ffffff"],
+        "BACKGROUND_TERTIARY": ["#000000"],
+        "BACKGROUND_ACCENT": ["#000000"],
+        "BACKGROUND_FLOATING": ["#000000"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+        "BACKGROUND_NESTED_FLOATING": ["#000000"],
+        "BACKGROUND_MESSAGE_HOVER": ["#ffffff"],
+        "BACKGROUND_MODIFIER_HOVER": ["#000000"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#000000"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#000000"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
+        "BACKGROUND_MENTIONED": ["#80696969"],
+        "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#dd3747"],
+        "BUTTON_OUTLINE_BRAND_BOARDER": ["#dd3747"],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#000000"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000"],
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#000000"],
+        "BG_BASE_PRIMARY": ["#000000"],
+        "SCROLLBAR_THIN_THUMB": ["#cc0000"],
+        "SCROLLBAR_THIN_TRACK": ["transparent"],
+        "SCROLLBAR_AUTO_THUMB": ["#cc0000"],
+        "SCROLLBAR_AUTO_TRACK": ["#cc0000"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#000000"],
+        "CHANNELS_DEFAULT": ["#ffffff"],
+        "TEXT_LINK": ["#5a5a5a"],
+        "TEXT_DANGER": ["#fff01f"],
+        "KEYBOARD": ["#cc0000"],
+        "CHANNEL_ICON": ["#dd3747"],
+        "CHAT_BACKGROUND": ["#000000"],
+        "CARD_PRIMARY_BG": ["#000000"],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#dd3747"],
+        "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#000000", "#000000", "#000000"]
+    },
     "rawColors": {
-    "BLUE_345": "#DD3747",
-    "BRAND_230": "#DD3747",
-    "BRAND_260": "#DD3747",
-    "BRAND_360": "#949cf7",
-    "BRAND_500": "#DD3747",
-    "BRAND_560": "#dddee1",
-    "ORANGE_345": "#DD3747",
-    "PLUM_1": "#f3f3f4",
-    "PLUM_10": "#818491",
-    "PLUM_11": "#5A4D5E",
-    "PLUM_13": "#DD3747",
-    "PLUM_15": "#DD3747",
-    "PLUM_16": "#DD3747",
-    "PLUM_17": "#dd2737",
-    "PLUM_18": "#0B0B0B",
-    "PLUM_19": "#dd2737",
-    "PLUM_20": "#121111",
-    "PLUM_21": "#2c2e2c",
-    "PLUM_22": "#dd2737",
-    "PLUM_24": "#0f1014",
-    "PLUM_25": "#DD3747",
-    "PLUM_3": "#DD3747",
-    "PLUM_4": "#dddee1",
-    "PLUM_6": "#dddee1",
-    "PLUM_9": "#dddee1",
-    "PRIMARY_100": "#EAEAEE",
-    "PRIMARY_130": "#dddee1",
-    "PRIMARY_230": "#8F669C",
-    "PRIMARY_300": "#CE7DA0",
-    "PRIMARY_345": "#DD3747",
-    "PRIMARY_360": "#FEF0F8",
-    "PRIMARY_400": "#CE7DA0",
-    "PRIMARY_430": "#FB7B25",
-    "PRIMARY_460": "#dd2737",
-    "PRIMARY_500": "#8F669C",
-    "PRIMARY_530": "#FB7B25",
-    "PRIMARY_600": "#121111",
-    "PRIMARY_630": "#0B0B0B",
-    "PRIMARY_645": "#EAA3C5",
-    "PRIMARY_660": "#2c2c2e",
-    "PRIMARY_700": "#696779",
-    "PRIMARY_760": "#DD3747",
-    "PRIMARY_800": "#2c2c2e",
-    "PRIMARY_860": "#dddee1",
-    "GREEN_100": "#FB7B25",
-    "GREEN_130": "#FB7B25",
-    "GREEN_160": "#FB7B25",
-    "GREEN_200": "#FB7B25",
-    "GREEN_230": "#FB7B25",
-    "GREEN_260": "#FB7B25",
-    "GREEN_300": "#FB7B25",
-    "GREEN_330": "#FB7B25",
-    "GREEN_345": "#FB7B25",
-    "GREEN_360": "#23a55a",
-    "GREEN_400": "#FB7B25",
-    "GREEN_430": "#FB7B25",
-    "GREEN_460": "#FB7B25",
-    "GREEN_500": "#FB7B25",
-    "GREEN_530": "#FB7B25",
-    "GREEN_560": "#FB7B25",
-    "GREEN_600": "#FB7B25",
-    "GREEN_630": "#FB7B25",
-    "GREEN_660": "#FB7B25",
-    "GREEN_700": "#FB7B25",
-    "GREEN_730": "#FB7B25",
-    "GREEN_760": "#FB7B25",
-    "GREEN_800": "#FB7B25",
-    "GREEN_830": "#FB7B25",
-    "GREEN_860": "#FB7B25",
-    "GREEN_900": "#FB7B25",
-    "RED_260": "#DD3747",
-    "RED_300": "#DD3747",
-    "RED_330": "#DD3747",
-    "RED_345": "#DD3747",
-    "RED_360": "#DD3747",
-    "RED_400": "#FB7B25",
-    "RED_430": "#DD3747",
-    "RED_460": "#DD3747",
-    "RED_500": "#DD3747",
-    "RED_530": "#DD3747",
-    "RED_560": "#DD3747",
-    "RED_600": "#DD3747",
-    "RED_630": "#DD3747",
-    "RED_660": "#DD3747",
-    "RED_700": "#DD3747",
-    "YELLOW_100": "#DD3747",
-    "YELLOW_130": "#DD3747",
-    "YELLOW_160": "#DD3747",
-    "YELLOW_200": "#DD3747",
-    "YELLOW_230": "#DD3747",
-    "YELLOW_260": "#DD3747",
-    "YELLOW_300": "#DD3747",
-    "YELLOW_330": "#DD3747",
-    "YELLOW_345": "#DD3747",
-    "YELLOW_360": "#DD3747",
-    "YELLOW_400": "#DD3747",
-    "YELLOW_430": "#DD3747",
-    "YELLOW_460": "#DD3747",
-    "YELLOW_500": "#DD3747",
-    "YELLOW_530": "#DD3747",
-    "YELLOW_560": "#DD3747",
-    "YELLOW_600": "#DD3747",
-    "YELLOW_630": "#DD3747",
-    "YELLOW_660": "#DD3747",
-    "YELLOW_700": "#DD3747",
-    "YELLOW_730": "#DD3747",
-    "YELLOW_760": "#DD3747",
-    "YELLOW_800": "#DD3747",
-    "YELLOW_830": "#DD3747",
-    "YELLOW_860": "#DD3747",
-    "YELLOW_900": "#DD3747",
-    "WHITE_500": "#FFFFFF",
-    "WHITE_630": "#969696"
-}	   
+        "BLUE_345": "#DD3747",
+        "BRAND_230": "#DD3747",
+        "BRAND_260": "#DD3747",
+        "BRAND_360": "#949cf7",
+        "BRAND_500": "#DD3747",
+        "BRAND_560": "#dddee1",
+        "ORANGE_345": "#DD3747",
+        "PLUM_1": "#f3f3f4",
+        "PLUM_10": "#818491",
+        "PLUM_11": "#5A4D5E",
+        "PLUM_13": "#DD3747",
+        "PLUM_15": "#DD3747",
+        "PLUM_16": "#DD3747",
+        "PLUM_17": "#dd2737",
+        "PLUM_18": "#0B0B0B",
+        "PLUM_19": "#dd2737",
+        "PLUM_20": "#121111",
+        "PLUM_21": "#2c2e2c",
+        "PLUM_22": "#dd2737",
+        "PLUM_24": "#0f1014",
+        "PLUM_25": "#DD3747",
+        "PLUM_3": "#DD3747",
+        "PLUM_4": "#dddee1",
+        "PLUM_6": "#dddee1",
+        "PLUM_9": "#dddee1",
+        "PRIMARY_100": "#EAEAEE",
+        "PRIMARY_130": "#dddee1",
+        "PRIMARY_230": "#8F669C",
+        "PRIMARY_300": "#CE7DA0",
+        "PRIMARY_345": "#DD3747",
+        "PRIMARY_360": "#FEF0F8",
+        "PRIMARY_400": "#CE7DA0",
+        "PRIMARY_430": "#FB7B25",
+        "PRIMARY_460": "#dd2737",
+        "PRIMARY_500": "#8F669C",
+        "PRIMARY_530": "#FB7B25",
+        "PRIMARY_600": "#121111",
+        "PRIMARY_630": "#0B0B0B",
+        "PRIMARY_645": "#EAA3C5",
+        "PRIMARY_660": "#2c2c2e",
+        "PRIMARY_700": "#696779",
+        "PRIMARY_760": "#DD3747",
+        "PRIMARY_800": "#2c2c2e",
+        "PRIMARY_860": "#dddee1",
+        "GREEN_100": "#FB7B25",
+        "GREEN_130": "#FB7B25",
+        "GREEN_160": "#FB7B25",
+        "GREEN_200": "#FB7B25",
+        "GREEN_230": "#FB7B25",
+        "GREEN_260": "#FB7B25",
+        "GREEN_300": "#FB7B25",
+        "GREEN_330": "#FB7B25",
+        "GREEN_345": "#FB7B25",
+        "GREEN_360": "#23a55a",
+        "GREEN_400": "#FB7B25",
+        "GREEN_430": "#FB7B25",
+        "GREEN_460": "#FB7B25",
+        "GREEN_500": "#FB7B25",
+        "GREEN_530": "#FB7B25",
+        "GREEN_560": "#FB7B25",
+        "GREEN_600": "#FB7B25",
+        "GREEN_630": "#FB7B25",
+        "GREEN_660": "#FB7B25",
+        "GREEN_700": "#FB7B25",
+        "GREEN_730": "#FB7B25",
+        "GREEN_760": "#FB7B25",
+        "GREEN_800": "#FB7B25",
+        "GREEN_830": "#FB7B25",
+        "GREEN_860": "#FB7B25",
+        "GREEN_900": "#FB7B25",
+        "RED_260": "#DD3747",
+        "RED_300": "#DD3747",
+        "RED_330": "#DD3747",
+        "RED_345": "#DD3747",
+        "RED_360": "#DD3747",
+        "RED_400": "#FB7B25",
+        "RED_430": "#DD3747",
+        "RED_460": "#DD3747",
+        "RED_500": "#DD3747",
+        "RED_530": "#DD3747",
+        "RED_560": "#DD3747",
+        "RED_600": "#DD3747",
+        "RED_630": "#DD3747",
+        "RED_660": "#DD3747",
+        "RED_700": "#DD3747",
+        "YELLOW_100": "#DD3747",
+        "YELLOW_130": "#DD3747",
+        "YELLOW_160": "#DD3747",
+        "YELLOW_200": "#DD3747",
+        "YELLOW_230": "#DD3747",
+        "YELLOW_260": "#DD3747",
+        "YELLOW_300": "#DD3747",
+        "YELLOW_330": "#DD3747",
+        "YELLOW_345": "#DD3747",
+        "YELLOW_360": "#DD3747",
+        "YELLOW_400": "#DD3747",
+        "YELLOW_430": "#DD3747",
+        "YELLOW_460": "#DD3747",
+        "YELLOW_500": "#DD3747",
+        "YELLOW_530": "#DD3747",
+        "YELLOW_560": "#DD3747",
+        "YELLOW_600": "#DD3747",
+        "YELLOW_630": "#DD3747",
+        "YELLOW_660": "#DD3747",
+        "YELLOW_700": "#DD3747",
+        "YELLOW_730": "#DD3747",
+        "YELLOW_760": "#DD3747",
+        "YELLOW_800": "#DD3747",
+        "YELLOW_830": "#DD3747",
+        "YELLOW_860": "#DD3747",
+        "YELLOW_900": "#DD3747",
+        "WHITE_500": "#FFFFFF",
+        "WHITE_630": "#969696"
     },
     "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-BoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-ExtraBoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-MediumItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "ggsans-SemiboldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "NotoSans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "NotoSans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "NotoSans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "NotoSans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "NotoSans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
-        "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1"
-    },
-    "spec": 2
-}
+    "ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/Barrio-Regular.ttf?raw=1"
+    }
