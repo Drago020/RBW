@@ -34,7 +34,7 @@
             "#dd3747"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#cc0000"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#dd3747"
@@ -49,7 +49,7 @@
             "#000000"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-		"#cc0000"
+		"#ffffff"
 		],
         "BACKGROUND_TERTIARY": [
             "#000000"
@@ -123,13 +123,13 @@
             "#dd3747"
         ],
         "CHANNELS_DEFAULT": [
-            "#cc0000"
+            "#ffffff"
         ],
         "TEXT_LINK": [
-            "#cc0000"
+            "#3a3a3a"
         ],
         "TEXT_DANGER": [
-            "#FF5F1F"
+            "#fff01f"
         ],
         "KEYBOARD": [
             "#cc0000"
