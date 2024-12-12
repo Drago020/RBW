@@ -1,5 +1,5 @@
 {
-  "name": "AMOLEDturbo",
+  "name": "AMOLEDgpt",
   "description": "AMOLED black base, using reds & white for everything else, this is 100% GPT's thoughts on a color scheme of my choice.",
   "version": "1",
   "authors": [
@@ -34,7 +34,8 @@
     "BACKGROUND_MODIFIER_ACTIVE": ["#000000"],
     "BACKGROUND_MODIFIER_SELECTED": ["#000000"],
     "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
-    "BACKGROUND_MENTIONED": ["rgba(255, 71, 71, 0.8)"],
+    "BACKGROUND_MENTIONED": ["rgba(255, 71, 71, 0.6)"],
+    "BACKGROUND_CODE_BLOCK": ["rgba(255, 71, 71, 0.6)"],
     "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#DD3747"],
     "BUTTON_OUTLINE_BRAND_BORDER": ["#DD3747"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#000000"],
@@ -65,7 +66,7 @@
     "PRIMARY_300": "#DD3747",
     "PRIMARY_400": "#FFFFFF",
     "SECONDARY_100": "#DD3747",
-    "SECONDARY_200": "#FFFFFF",
+    "SECONDARY_200": ["#FFFFFF"],
     "PLUM_1": "#000000",
     "PLUM_11": "#FFFFFF",
     "PLUM_18": "#FFFFFF",
