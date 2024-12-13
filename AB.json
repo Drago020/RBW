@@ -16,7 +16,7 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#BE2435"
+            "#FFFFFF"
         ],
         "TEXT_SECONDARY": [
             "#FFFFFF"
@@ -85,10 +85,10 @@
             "#000000"
         ],
         "EMBED_BACKGROUND": [
-        		"#4D4D4D17"
+        		"#174D4D4D"
         ],
         "BACKGROUND_MENTIONED": [
-            "#BE243517"
+            "#17BE2435"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#BE2435"
