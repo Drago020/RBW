@@ -1,5 +1,5 @@
 {
-  "name": "GPT AMOLED",
+  "name": "GPT AMOLED RBW",
   "description": "AMOLED black base, using reds & white for everything else, this is 100% GPT's thoughts on a color scheme of my choice.",
   "version": "1",
   "authors": [
@@ -13,19 +13,19 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#ffffff"
+            "#cc0000"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#cc0000"
         ],
         "TEXT_SECONDARY": [
             "#ffffff"
         ],
         "TEXT_PRIMARY": [
-            "#ffffff"
+            "#cc0000"
         ],
         "TEXT_MUTED": [
-            "#ffffff"
+            "#cc0000"
         ],
         "INTERACTIVE_NORMAL": [
             "#cc0000"
@@ -49,7 +49,7 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#ffffff"
+            "#cc0000"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
@@ -91,7 +91,7 @@
             "#cc0000"
         ],
         "BUTTON_OUTLINE_BRAND_BOARDER": [
-            "#ffffff"
+            "#cc0000"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000000"
@@ -100,7 +100,7 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#000000"
+            "#cc0000"
         ],
         "BG_BASE_PRIMARY": [
             "#000000"
@@ -115,19 +115,19 @@
             "#cc0000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#ffffff"
+            "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#cc0000"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffff"
-        ],
-        "TEXT_LINK": [
             "#cc0000"
         ],
-        "TEXT_DANGER": [
+        "TEXT_LINK": [
             "#ffffff"
+        ],
+        "TEXT_DANGER": [
+            "#cc0000"
         ],
         "KEYBOARD": [
             "#cc0000"
@@ -142,7 +142,7 @@
             "#000000"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#ffffff"
+            "#cc0000"
         ],
         "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
@@ -153,9 +153,9 @@
     "rawColors": {
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#cc0000",
-        "PRIMARY_230": "#ffffff",
-        "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#ffffff",
+        "PRIMARY_230": "#000000",
+        "PRIMARY_300": "#cc0000",
+        "PRIMARY_360": "#000000",
         "PRIMARY_400": "#ffffff",
         "PRIMARY_500": "#cc0000",
         "PRIMARY_560": "#000000",
@@ -167,22 +167,22 @@
         "PRIMARY_800": "#000000",
         "BRAND_260": "#cc0000",
         "BRAND_360": "#ffffff",
-        "BRAND_500": "#ffffff",
+        "BRAND_500": "#cc0000",
         "BRAND_560": "#ffffff",
-        "YELLOW_300": "#ffffff",
-        "GREEN_600": "#ffffff",
+        "YELLOW_300": "#cc0000",
+        "GREEN_600": "#cc0000",
         "RED_400": "#cc0000",
-        "WHITE_500": "#ffffff",
-        "WHITE_630": "#ffffff",
+        "WHITE_500": "#000000",
+        "WHITE_630": "#000000",
         "GREEN_360": "#cc0000",
         "PLUM_1": "#cc0000",
         "PLUM_3": "#ffffff",
         "PLUM_6": "#cc0000",
-        "PLUM_10": "#ffffff",
+        "PLUM_10": "#000000",
         "PLUM_11": "#000000",
         "PLUM_15": "#cc0000",
         "PLUM_17": "#ffffff",
-        "PLUM_18": "#ffffff",
+        "PLUM_18": "#000000",
         "PLUM_19": "#000000",
         "PLUM_20": "#000000",
         "PLUM_26": "#cc0000",
