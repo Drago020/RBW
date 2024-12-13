@@ -16,16 +16,16 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#BE2435"
         ],
         "TEXT_SECONDARY": [
-            "#1EFF00"
+            "#FFFFFF"
         ],
         "TEXT_PRIMARY": [
-            "#336699"
+            "#BE2435"
         ],
         "TEXT_MUTED": [
-            "#FFFFFF"
+            "#BE2435"
         ],
         "INTERACTIVE_NORMAL": [
             "#BE2435"
