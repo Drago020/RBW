@@ -1,5 +1,5 @@
 {
-  "name": "AMOLED RBW",
+  "name": "AMOLED RBW GPT",
   "description": "AMOLED black base, using reds & white for everything else, this is 100% GPT's thoughts on a color scheme of my choice.",
   "version": "1",
   "authors": [
@@ -19,7 +19,7 @@
             "#ffffff"
         ],
         "TEXT_SECONDARY": [
-            "#ffffff"
+            "#cc0000"
         ],
         "TEXT_PRIMARY": [
             "#ffffff"
