@@ -25,7 +25,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#BE2435"
+            "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
             "#BE2435"
@@ -85,10 +85,10 @@
             "#000000"
         ],
         "EMBED_BACKGROUND": [
-        		"#174D4D4D"
+        		"#4D4D4D17"
         ],
         "BACKGROUND_MENTIONED": [
-            "#17BE2435"
+            "#BE243517"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#BE2435"
@@ -191,11 +191,6 @@
         "PLUM_26": "#BE2435",
         "PLUM_22": "#000000",
         "PLUM_24": "#000000"
-    },
-    "plus": {
-        "version": "0",
-        "customOverlays": true,
-        "iconpack": "materialtwotone"
     },
   "fonts": {
         "ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/tree/main/Gantari/Gantari-ExtraBold.ttf?tree=1",
