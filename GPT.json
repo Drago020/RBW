@@ -1,0 +1,218 @@
+{
+  "name": "GPT",
+  "description": "AMOLED black base, using reds & white for everything else, this is 100% GPT's thoughts on a color scheme of my choice.",
+  "version": "1",
+  "authors": [
+    {
+      "name": "tu__r__bo",
+      "id": "288054683161853952"
+    }
+  ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#cc0000"
+        ],
+        "HEADER_SECONDARY": [
+            "#ffffff"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_SECONDARY": [
+            "#cc0000"
+        ],
+        "TEXT_PRIMARY": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#cc0000"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#cc0000"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#ffffff"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#cc0000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#cc0000"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#cc0000"
+        ],
+        "BUTTON_OUTLINE_BRAND_BACKGROUND": [
+            "#cc0000"
+        ],
+        "BUTTON_OUTLINE_BRAND_BOARDER": [
+            "#ffffff"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#000000"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#cc0000"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#cc0000"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#ffffff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#cc0000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#cc0000"
+        ],
+        "TEXT_LINK": [
+            "#ffffff"
+        ],
+        "TEXT_DANGER": [
+            "#cc0000"
+        ],
+        "KEYBOARD": [
+            "#cc0000"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#ffffff"
+        ],
+        "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#cc0000",
+        "PRIMARY_230": "#ffffff",
+        "PRIMARY_300": "#cc0000",
+        "PRIMARY_360": "#ffffff",
+        "PRIMARY_400": "#ffffff",
+        "PRIMARY_500": "#cc0000",
+        "PRIMARY_560": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_645": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#cc0000",
+        "BRAND_360": "#cc0000",
+        "BRAND_500": "#cc0000",
+        "BRAND_560": "#cc0000",
+        "YELLOW_300": "#ffffff",
+        "GREEN_600": "#cc0000",
+        "RED_400": "#cc0000",
+        "WHITE_500": "#ffffff",
+        "WHITE_630": "#ffffff",
+        "GREEN_360": "#cc0000",
+        "PLUM_1": "#cc0000",
+        "PLUM_3": "#ffffff",
+        "PLUM_6": "#cc0000",
+        "PLUM_10": "#ffffff",
+        "PLUM_11": "#000000",
+        "PLUM_15": "#cc0000",
+        "PLUM_17": "#cc0000",
+        "PLUM_18": "#cc0000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_26": "#cc0000",
+        "PLUM_22": "#000000",
+        "PLUM_24": "#000000"
+    },
+    "plus": {
+        "version": "0",
+        "customOverlays": true,
+        "iconpack": "materialtwotone"
+    },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/yes/raw/refs/heads/main/PatrickHand-Regular.ttf?raw=1"
+  },
+  "spec": 2
+}
