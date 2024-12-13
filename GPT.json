@@ -10,7 +10,7 @@
   ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#cc0000"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
             "#ffffff"
@@ -19,7 +19,7 @@
             "#ffffff"
         ],
         "TEXT_SECONDARY": [
-            "#cc0000"
+            "#ffffff"
         ],
         "TEXT_PRIMARY": [
             "#ffffff"
@@ -49,7 +49,7 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#cc0000"
+            "#ffffff"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
@@ -121,13 +121,13 @@
             "#cc0000"
         ],
         "CHANNELS_DEFAULT": [
-            "#cc0000"
-        ],
-        "TEXT_LINK": [
             "#ffffff"
         ],
-        "TEXT_DANGER": [
+        "TEXT_LINK": [
             "#cc0000"
+        ],
+        "TEXT_DANGER": [
+            "#ffffff"
         ],
         "KEYBOARD": [
             "#cc0000"
@@ -154,7 +154,7 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#cc0000",
         "PRIMARY_230": "#ffffff",
-        "PRIMARY_300": "#cc0000",
+        "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#ffffff",
         "PRIMARY_400": "#ffffff",
         "PRIMARY_500": "#cc0000",
@@ -166,11 +166,11 @@
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "BRAND_260": "#cc0000",
-        "BRAND_360": "#cc0000",
-        "BRAND_500": "#cc0000",
-        "BRAND_560": "#cc0000",
+        "BRAND_360": "#ffffff",
+        "BRAND_500": "#ffffff",
+        "BRAND_560": "#ffffff",
         "YELLOW_300": "#ffffff",
-        "GREEN_600": "#cc0000",
+        "GREEN_600": "#ffffff",
         "RED_400": "#cc0000",
         "WHITE_500": "#ffffff",
         "WHITE_630": "#ffffff",
@@ -181,8 +181,8 @@
         "PLUM_10": "#ffffff",
         "PLUM_11": "#000000",
         "PLUM_15": "#cc0000",
-        "PLUM_17": "#cc0000",
-        "PLUM_18": "#cc0000",
+        "PLUM_17": "#ffffff",
+        "PLUM_18": "#ffffff",
         "PLUM_19": "#000000",
         "PLUM_20": "#000000",
         "PLUM_26": "#cc0000",
