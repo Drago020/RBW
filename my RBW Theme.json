@@ -1,5 +1,5 @@
 {
-  "name": "RBW AMOLED",
+  "name": "RBW_AMOLED",
   "description": "AMOLED black base, using reds & white for everything else",
   "version": "1",
   "authors": [
@@ -85,10 +85,10 @@
             "#000000"
         ],
         "EMBED_BACKGROUND": [
-        		"#4D4D4D80"
+        		"#4D4D4D40"
         ],
         "BACKGROUND_MENTIONED": [
-            "#BE243580"
+            "#BE243540"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#BE2435"
