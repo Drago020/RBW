@@ -1,5 +1,5 @@
 {
-  "name": "RBW GPT",
+  "name": "RBW AMOLED",
   "description": "AMOLED black base, using reds & white for everything else",
   "version": "1",
   "authors": [
@@ -85,10 +85,10 @@
             "#000000"
         ],
         "EMBED_BACKGROUND": [
-        		"#4D4D4D17"
+        		"#4D4D4D80"
         ],
         "BACKGROUND_MENTIONED": [
-            "#BE243517"
+            "#BE243580"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#BE2435"
