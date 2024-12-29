@@ -1,5 +1,5 @@
 {
-  "name": "rbw.AMOLED",
+  "name": "RBW..AMOLED",
   "description": "AMOLED black base, using reds & white for everything else",
   "version": "1",
   "authors": [
@@ -16,7 +16,7 @@
             "#1A1A1A"
         ],
         "TEXT_NORMAL": [
-            "#55A5A5A"
+            "#5A5A5A"
         ],
         "TEXT_SECONDARY": [
             "#FFFFFF"
@@ -136,7 +136,7 @@
             "#BE2435"
         ],
         "CHANNEL_ICON": [
-            "#4A4A4AA"
+            "#3A3A3A"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
