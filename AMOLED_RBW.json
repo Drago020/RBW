@@ -1,5 +1,5 @@
 {
-  "name": "RBW..AMOLED",
+  "name": "RBW...AMOLED",
   "description": "AMOLED black base, using reds & white for everything else",
   "version": "1",
   "authors": [
@@ -154,7 +154,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_100": "#000000",
         "PRIMARY_200": "#BE2435",
         "PRIMARY_230": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
