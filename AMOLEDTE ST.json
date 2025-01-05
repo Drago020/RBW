@@ -1,17 +1,14 @@
 {
-  "name": "RBWAMOLEDTEST",
+  "name": "RBW AMOLED  THEME",
   "description": "AMOLED black base, using reds & white for everything else",
-  "spec": 2,
+  "version": "1",
   "authors": [
     {
       "name": "tu__r__bo",
       "id": "288054683161853952"
     }
   ],
-      "plus": {
-        "version": 0
-   },
-  "semanticColors": {
+    "semanticColors": {
         "HEADER_PRIMARY": [
             "#FFFFFF"
         ],
@@ -70,13 +67,13 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_FLOATING": [
-            "rgba(64, 64, 64, 0.43)"
+            "#404040"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "rgba(190, 36, 53, 0.43)"
+            "#BE2435"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#000000"
@@ -91,10 +88,10 @@
             "#000000"
         ],
         "EMBED_BACKGROUND": [
-        		"rgba(48, 48, 48, 0.43)"
+        		"#30303070"
         ],
         "BACKGROUND_MENTIONED": [
-            "rgba(190, 36, 53, 0.25)"
+            "#BE243540"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#BE2435"
@@ -118,7 +115,7 @@
             "#BE2435"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "rgba(26, 26, 26, 0.5)"
+            "1A1A1A80"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#BE2435"
@@ -217,4 +214,6 @@
         "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Italic.ttf?raw=1",
         "NotoSans-Semibold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBold.ttf?raw=1",
         "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBold.ttf?raw=1"
-  }
+  },
+  "spec": 2
+}
