@@ -156,7 +156,7 @@
             "#000000"
         ]
     },
-    "rawColors": {
+  "rawColors": {
     "PRIMARY_100": "rgba(255, 255, 255, 0)",
     "PRIMARY_200": "#BE2435",
     "PRIMARY_230": "rgba(255, 255, 255, 0)",
