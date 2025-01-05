@@ -1,5 +1,5 @@
 {
-  "name": "RBW AMOLED",
+  "name": "RBW AMOLED THEME",
   "description": "AMOLED black base, using reds & white for everything else",
   "version": "1",
   "authors": [
@@ -16,7 +16,7 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#404040"
+            "#DBDBDB"
         ],
         "TEXT_SECONDARY": [
             "#FFFFFF"
@@ -67,7 +67,7 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_FLOATING": [
-            "#101010"
+            "#404040"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
@@ -115,7 +115,7 @@
             "#BE2435"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "1A1A1A80"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#BE2435"
@@ -139,7 +139,7 @@
             "#BE2435"
         ],
         "CHANNEL_ICON": [
-            "#303030"
+            "#DBDBDB"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
