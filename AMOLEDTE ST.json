@@ -1,5 +1,5 @@
 {
-  "name": "RBW AMOLEDTEST",
+  "name": "RBWAMOLEDTEST",
   "description": "AMOLED black base, using reds & white for everything else",
   "spec": 2,
   "authors": [
@@ -8,10 +8,9 @@
       "id": "288054683161853952"
     }
   ],
-  "plus": {
-    "version": 0
-  }
-},
+      "plus": {
+        "version": 0
+   },
   "semanticColors": {
         "HEADER_PRIMARY": [
             "#FFFFFF"
