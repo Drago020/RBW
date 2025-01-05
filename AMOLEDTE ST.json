@@ -28,7 +28,7 @@
             "#BE2435"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#BE2435"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_HOVER": [
             "#000000"
@@ -114,6 +114,12 @@
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#000000"
         ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+    				"#BE243540"
+    	  ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+    				"#FFFFFF"
+    	  ],
     "ANDROID_RIPPLE": [
     	  		"#BE2435"
     	  ],
