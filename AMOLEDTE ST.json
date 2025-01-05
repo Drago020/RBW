@@ -28,13 +28,13 @@
             "#BE2435"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#FFFFFF"
+            "#BE2435"
         ],
 		"INTERACTIVE_HOVER": [
             "#000000"
         ],
 		"INTERACTIVE_ACTIVE": [
-            "#BE2435"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_MUTED": [
             "#FFFFFF"
