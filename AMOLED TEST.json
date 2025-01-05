@@ -1,13 +1,17 @@
 {
-  "name": "RBW_AM_O_LED_THEME",
+  "name": "RBW AMOLED TEST",
   "description": "AMOLED black base, using reds & white for everything else",
-  "version": "1",
   "authors": [
     {
       "name": "tu__r__bo",
       "id": "288054683161853952"
     }
   ],
+   {
+   "plus": {
+     "version": 0
+  }
+},
   "semanticColors": {
         "HEADER_PRIMARY": [
             "#FFFFFF"
