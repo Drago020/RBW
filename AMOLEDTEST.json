@@ -1,15 +1,15 @@
 {
-  "name": "RBW AMOLED TEST",
+  "name": "RBW AMOLEDTEST",
   "description": "AMOLED black base, using reds & white for everything else",
+  "spec": 2,
   "authors": [
     {
       "name": "tu__r__bo",
       "id": "288054683161853952"
     }
   ],
-   {
-   "plus": {
-     "version": 0
+  "plus": {
+    "version": 0
   }
 },
   "semanticColors": {
@@ -218,6 +218,4 @@
         "NotoSans-NormalItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Italic.ttf?raw=1",
         "NotoSans-Semibold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBold.ttf?raw=1",
         "SourceCodePro-Semibold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBold.ttf?raw=1"
-  },
-  "spec": 2
-}
+  }
