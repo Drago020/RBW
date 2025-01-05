@@ -49,7 +49,7 @@
             "#000000"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#BE2435"
+            "#000000"
         ],
 		"BACKGROUND_TERTIARY": [
             "#000000"
@@ -100,7 +100,7 @@
             "#BE2435"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
-            "#BE2435"
+            "#000000"
         ],
 		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000000"
@@ -117,11 +117,8 @@
     "REDESIGN_INPUT_CONTROL_SELECTED": [
     				"#BE243570"
     	  ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-    				"#FFFFFF"
-    	  ],
     "ANDROID_RIPPLE": [
-    	  		"#FFFFFF"
+    	  		"#FFFFFF40"
     	  ],
 		"BG_BASE_PRIMARY": [
             "#000000"
@@ -154,7 +151,7 @@
             "#BE2435"
         ],
 		"CHANNEL_ICON": [
-            "#7D7A7A"
+            "#FFFFFF"
         ],
 		"CHAT_BACKGROUND": [
             "#000000"
