@@ -1,5 +1,5 @@
 {
-  "name": "RBW _AMOLED_THEME",
+  "name": "RBW _AMO_LED_THEME",
   "description": "AMOLED black base, using reds & white for everything else",
   "version": "1",
   "authors": [
@@ -149,6 +149,8 @@
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#FFFFFF"
+        ],
+       "SEARCH_BACKGROUND": "#282828" [
         ],
         "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
