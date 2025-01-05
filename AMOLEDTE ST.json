@@ -16,13 +16,13 @@
             "#FFFFFF"
         ],
 		"TEXT_NORMAL": [
-            "#7D7A7A"
+            "#FFFFFF"
         ],
 		"TEXT_SECONDARY": [
             "#FFFFFF"
         ],
 		"TEXT_PRIMARY": [
-            "#FFFFFF"
+            "#7D7A7A"
         ],
 		"TEXT_MUTED": [
             "#BE2435"
@@ -88,13 +88,13 @@
             "#000000"
         ],
 		"EMBED_BACKGROUND": [
-						"#303030"
+						"#5A5A5A50"
         ],
 		"BACKGROUND_MENTIONED": [
             "#BE243540"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
-            "#BE243540"
+            "#000000"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#BE2435"
