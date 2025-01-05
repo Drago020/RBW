@@ -51,6 +51,9 @@
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#FFFFFF"
         ],
+    "BORDER_FAINT": [
+    				"#FFFFFF"
+    	  ],
 		"BORDER_SUBTLE": [
             "#FFFFFF"
         ],
@@ -94,13 +97,13 @@
             "#000000"
         ],
 		"EMBED_BACKGROUND": [
-            "#30303070"
+            "#00303030"
         ],
 		"BACKGROUND_MENTIONED": [
             "#BE243540"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
-            "#30303070"
+            "#303030"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#BE2435"
@@ -111,12 +114,18 @@
 		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000000"
         ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+    	  		"#000000"
+    	  ],
 		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
         ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#000000"
         ],
+    "ANDROID_RIPPLE": [
+    	  		"#BE2435"
+    	  ],
 		"BG_BASE_PRIMARY": [
             "#000000"
         ],
@@ -124,7 +133,7 @@
             "#BE2435"
         ],
 		"SCROLLBAR_THIN_TRACK": [
-            "#00000000"
+            "#000000"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
             "#BE2435"
@@ -174,7 +183,7 @@
 		"PRIMARY_400": "#FFFFFF",
 		"PRIMARY_500": "#BE2435",
 		"PRIMARY_560": "#000000",
-		"PRIMARY_600": "#00000000",
+		"PRIMARY_600": "#000000",
 		"PRIMARY_630": "#000000",
 		"PRIMARY_645": "#000000",
 		"PRIMARY_660": "#000000",
@@ -194,17 +203,17 @@
 		"PLUM_3": "#FFFFFF",
 		"PLUM_6": "#BE2435",
 		"PLUM_10": "#FFFFFF",
-		"PLUM_11": "#BE2435",
+		"PLUM_11": "#000000",
 		"PLUM_13": "#BE2435",
 		"PLUM_15": "#FFFFFF",
 		"PLUM_17": "#FFFFFF",
 		"PLUM_18": "#FFFFFF",
-		"PLUM_19": "#BE243570",
+		"PLUM_19": "#BE2435",
 		"PLUM_20": "#000000",
 		"PLUM_26": "#BE2435",
-		"PLUM_22": "#BE243570",
+		"PLUM_22": "#BE2435",
 		"PLUM_24": "#000000",
-		"ROLE_DEFAULT": "#BE243570"
+		"ROLE_DEFAULT": "#BE2435"
 	},
 	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
