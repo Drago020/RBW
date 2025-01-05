@@ -34,7 +34,7 @@
             "#000000"
         ],
 		"INTERACTIVE_ACTIVE": [
-            "#BE2435"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_MUTED": [
             "#FFFFFF"
@@ -121,7 +121,7 @@
     				"#BE2435"
     	  ],
     "ANDROID_RIPPLE": [
-    	  		"#BE2435"
+    	  		"#FFFFFF"
     	  ],
 		"BG_BASE_PRIMARY": [
             "#000000"
@@ -184,7 +184,7 @@
 		"RED_400": "#BE2435",
 		"GREEN_360": "#BE2435",
 		"WHITE_500": "#BE2435",
-		"PLUM_1": "#BE2435",
+		"PLUM_1": "#FFFFFF",
 		"PLUM_3": "#BE2435",
 		"PLUM_6": "#FFFFFF",
 		"PLUM_9": "#BE2435",
