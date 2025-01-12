@@ -1,5 +1,5 @@
 {
-	"name": "Red Black White AMOLED",
+	"name": "Red Black & White AMOLED",
 	"description": "AMOLED black base, using reds & white for everything else",
 	"version": "1",
 	"authors": [
@@ -10,7 +10,7 @@
     ],
 	"plus": {
     "version": 0,
-    "mentionLineColor": "#FFF"
+    "mentionLineColor": "#fff"
 },
 	"semanticColors": {
 		"HEADER_PRIMARY": [
