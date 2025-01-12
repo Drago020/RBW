@@ -1,5 +1,5 @@
 {
-	"name": "Red Black & White  AMOLED",
+	"name": "Red Black & White AMOLED",
 	"description": "AMOLED black base, using reds & white for everything else",
 	"version": "1",
 	"authors": [
@@ -194,7 +194,7 @@
 		"PLUM_16": "#ED0243",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#000000",
-		"PLUM_19": "#ED0243""",
+		"PLUM_19": "#ED0243",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#ED0243",
 		"PLUM_24": "#000000",
