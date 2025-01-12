@@ -191,14 +191,14 @@
 		"PLUM_9": "#ED0243",
 		"PLUM_11": "#000000",
 		"PLUM_13": "#ED0243",
-		"PLUM_16": "#ED024370",
+		"PLUM_16": "#ED0243",
 		"PLUM_17": "#000000",
-		"PLUM_18": "#00000000",
-		"PLUM_19": "#5a5a5a70",
+		"PLUM_18": "#000000",
+		"PLUM_19": "#5a5a5a",
 		"PLUM_20": "#000000",
-		"PLUM_22": "#ED024370",
+		"PLUM_22": "#ED0243",
 		"PLUM_24": "#000000",
-		"ROLE_DEFAULT": "#ED024370"
+		"ROLE_DEFAULT": "#ED0243"
 	},
 	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
