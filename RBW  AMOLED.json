@@ -1,5 +1,5 @@
 {
-	"name": "RBW AMOLED",
+	"name": "RBW  AMOLED",
 	"description": "AMOLED black base, using reds & white for everything else",
 	"version": "1",
 	"authors": [
@@ -89,7 +89,7 @@
             "#000000"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#1A1A1A70"
+            "#1A1A1A"
         ],
 		"EMBED_BACKGROUND": [
 						"#1A1A1A30"
