@@ -1,5 +1,5 @@
 {
-	"name": "RBW..AMOLED",
+	"name": "RBW AMOLED",
 	"description": "AMOLED black base, using reds & white for everything else",
 	"version": "1",
 	"authors": [
@@ -9,10 +9,10 @@
         }
     ],
 	"plus": {
-    "version": 0,
-    "mentionLineColor": "#fff", 
-    "iconpack": "solarbroken"
-},
+		"version": 0,
+		"mentionLineColor": "#fff",
+		"iconpack": "solarbroken"
+	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
             "#FFFFFF"
@@ -90,10 +90,10 @@
             "#000000"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#3A3A3A40"
+            "#4A4A4A25"
         ],
 		"EMBED_BACKGROUND": [
-						"#2A2A2A40"
+            "#2A2A2A25"
         ],
 		"BACKGROUND_MENTIONED": [
             "#ED024325"
@@ -110,21 +110,21 @@
 		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000000"
         ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-    	  		"#000000"
-    	  ],
+		"REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#000000"
+        ],
 		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
         ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#000000"
         ],
-    "REDESIGN_INPUT_CONTROL_SELECTED": [
-    				"#ED024370"
-    	  ],
-    "ANDROID_RIPPLE": [
-    	  		"#FFFFFF30"
-    	  ],
+		"REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#ED024370"
+        ],
+		"ANDROID_RIPPLE": [
+            "#FFFFFF30"
+        ],
 		"BG_BASE_PRIMARY": [
             "#000000"
         ],
@@ -195,7 +195,7 @@
 		"PLUM_16": "#ED024370",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#000000",
-		"PLUM_19": "#2A2A2A70",
+		"PLUM_19": "#3A3A3A",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#2A2A2A",
 		"PLUM_24": "#000000",
