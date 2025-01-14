@@ -10,7 +10,8 @@
     ],
 	"plus": {
     "version": 0,
-    "mentionLineColor": "#fff"
+    "mentionLineColor": "#fff", 
+    "iconpack": "solarbroken"
 },
 	"semanticColors": {
 		"HEADER_PRIMARY": [
@@ -80,7 +81,7 @@
             "#ED0243"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#000000"
+            "#ED0243"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
@@ -89,7 +90,7 @@
             "#000000"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#3A3A3A40"
+            "#4A4A4A40"
         ],
 		"EMBED_BACKGROUND": [
 						"#1A1A1A30"
