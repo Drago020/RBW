@@ -1,7 +1,7 @@
 {
-	"name": "RBW AMOLED",
-	"description": "AMOLED black base, using reds & white for everything else",
-	"version": "1",
+	"name": "GBW AMOLED",
+	"description": "AMOLED black base, using green, white & grey for everything else",
+	"version": "2",
 	"authors": [
 		{
 			"name": "tu__r__bo",
