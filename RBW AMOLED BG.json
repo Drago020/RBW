@@ -1,0 +1,230 @@
+{
+	"name": "RBW AMOLED",
+	"description": "AMOLED black base, using red, white & grey for everything else",
+	"version": "1",
+	"authors": [
+		{
+			"name": "tu__r__bo",
+			"id": "288054683161853952"
+        }
+    ],
+	"plus": {
+		"version": 0,
+		"mentionLineColor": "#fff",
+		"iconpack": "solarbroken"
+	},
+	"Background": {
+		"blur": 0.6,
+		"url": "https://betterthanbtmc.s-ul.eu/Uy2SpFOR",
+		"alpha": 0.4
+	},
+	"semanticColors": {
+		"HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+		"HEADER_SECONDARY": [
+            "#FFFFFF"
+        ],
+		"TEXT_NORMAL": [
+            "#7D7A7A"
+        ],
+		"TEXT_SECONDARY": [
+            "#FFFFFF"
+        ],
+		"TEXT_PRIMARY": [
+            "#FFFFFF"
+        ],
+		"TEXT_MUTED": [
+            "#ED2043"
+        ],
+		"INTERACTIVE_NORMAL": [
+            "#ED2043"
+        ],
+		"INTERACTIVE_HOVER": [
+            "#000000"
+        ],
+		"INTERACTIVE_ACTIVE": [
+            "#FFFFFF"
+        ],
+		"INTERACTIVE_MUTED": [
+            "#2A2A2A"
+        ],
+		"BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+		"BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+		"BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#000000"
+        ],
+		"BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+		"BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+		"BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+		"BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+		"BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+		"BACKGROUND_MOBILE_FLOATING": [
+            "#404040"
+        ],
+		"BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+		"BACKGROUND_MESSAGE_HOVER": [
+            "#ED2043"
+        ],
+		"BACKGROUND_MODIFIER_HOVER": [
+            "#ED2043"
+        ],
+		"BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
+        ],
+		"BACKGROUND_MODIFIER_SELECTED": [
+            "#000000"
+        ],
+		"BACKGROUND_MODIFIER_ACCENT": [
+            "#4A4A4A35"
+        ],
+		"EMBED_BACKGROUND": [
+            "#1A1A1A35"
+        ],
+		"BACKGROUND_MENTIONED": [
+            "#ED204330"
+        ],
+		"BG_SURFACE_OVERLAY_TMP": [
+            "#000000"
+        ],
+		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
+            "#ED2043"
+        ],
+		"BUTTON_OUTLINE_BRAND_BOARDER": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#000000"
+        ],
+		"REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#000000"
+        ],
+		"REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#ED2043"
+        ],
+		"ANDROID_RIPPLE": [
+            "#FFFFFF30"
+        ],
+		"BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+		"SCROLLBAR_THIN_THUMB": [
+            "#ED2043"
+        ],
+		"SCROLLBAR_THIN_TRACK": [
+            "#000000"
+        ],
+		"SCROLLBAR_AUTO_THUMB": [
+            "#ED2043"
+        ],
+		"SCROLLBAR_AUTO_TRACK": [
+            "#FFFFFF"
+        ],
+		"CHANNELTEXTAREA_BACKGROUND": [
+            "#ED2043"
+        ],
+		"CHANNELS_DEFAULT": [
+            "#FFFFFF"
+        ],
+		"TEXT_LINK": [
+            "#ED2043"
+        ],
+		"TEXT_DANGER": [
+            "#FFFFFF"
+        ],
+		"KEYBOARD": [
+            "#ED2043"
+        ],
+		"CHANNEL_ICON": [
+            "#FFFFFF"
+        ],
+		"CHAT_BACKGROUND": [
+            "#000000"
+        ],
+		"CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#FFFFFF"
+        ],
+		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ]
+	},
+	"rawColors": {
+		"PRIMARY_200": "#ED2043",
+		"PRIMARY_230": "#FFFFFF",
+		"PRIMARY_300": "#FFFFFF",
+		"PRIMARY_500": "#ED2043",
+		"PRIMARY_660": "#000000",
+		"BRAND_260": "#ED2043",
+		"BRAND_360": "#ED2043",
+		"BRAND_500": "#ED2043",
+		"BRAND_560": "#FFFFFF",
+		"RED_400": "#ED2043",
+		"GREEN_360": "#ED2043",
+		"WHITE_500": "#FFFFFF",
+		"PLUM_1": "#ED2043",
+		"PLUM_3": "#ED2043",
+		"PLUM_6": "#FFFFFF",
+		"PLUM_9": "#ED2043",
+		"PLUM_11": "#000000",
+		"PLUM_13": "#ED2043",
+		"PLUM_16": "#ED204370",
+		"PLUM_17": "#000000",
+		"PLUM_18": "#000000",
+		"PLUM_19": "#1A1A1A",
+		"PLUM_20": "#000000",
+		"PLUM_22": "#00000000",
+		"PLUM_24": "#000000",
+		"ROLE_DEFAULT": "#ED204370"
+	},
+	"fonts": {
+		"ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
+		"ggsans-Bold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Bold.ttf?raw=1",
+		"ggsans-BoldItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-BoldItalic.ttf?raw=1",
+		"ggsans-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
+		"ggsans-ExtraBoldItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBoldItalic.ttf?raw=1",
+		"ggsans-Medium": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Medium.ttf?raw=1",
+		"ggsans-MediumItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-MediumItalic.ttf?raw=1",
+		"ggsans-Normal": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Regular.ttf?raw=1",
+		"ggsans-NormalItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Italic.ttf?raw=1",
+		"ggsans-Semibold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBold.ttf?raw=1",
+		"ggsans-SemiboldItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBoldItalic.ttf?raw=1",
+		"NotoSans-Bold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Bold.ttf?raw=1",
+		"NotoSans-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
+		"NotoSans-Medium": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Medium.ttf?raw=1",
+		"NotoSans-Normal": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Regular.ttf?raw=1",
+		"NotoSans-NormalItalic": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-Italic.ttf?raw=1",
+		"NotoSans-Semibold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBold.ttf?raw=1",
+		"SourceCodePro-Semibold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-SemiBold.ttf?raw=1"
+	},
+	"spec": 2
+}
