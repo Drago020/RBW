@@ -30,10 +30,10 @@
             "#FFFFFF"
         ],
 		"TEXT_MUTED": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"INTERACTIVE_HOVER": [
             "#000000"
@@ -78,10 +78,10 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
@@ -96,13 +96,13 @@
             "#2A2A2A35"
         ],
 		"BACKGROUND_MENTIONED": [
-            "#70ff5d30"
+            "#1fa80d30"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
             "#000000"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
             "#000000"
@@ -120,7 +120,7 @@
             "#000000"
         ],
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"ANDROID_RIPPLE": [
             "#FFFFFF30"
@@ -129,31 +129,31 @@
             "#000000"
         ],
 		"SCROLLBAR_THIN_THUMB": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"SCROLLBAR_THIN_TRACK": [
             "#000000"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
             "#FFFFFF"
         ],
 		"CHANNELTEXTAREA_BACKGROUND": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"CHANNELS_DEFAULT": [
             "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"TEXT_DANGER": [
             "#FFFFFF"
         ],
 		"KEYBOARD": [
-            "#70ff5d"
+            "#1fa80d"
         ],
 		"CHANNEL_ICON": [
             "#FFFFFF"
@@ -174,32 +174,32 @@
         ]
 	},
 	"rawColors": {
-		"PRIMARY_200": "#70ff5d",
+		"PRIMARY_200": "#1fa80d",
 		"PRIMARY_230": "#FFFFFF",
 		"PRIMARY_300": "#FFFFFF",
-		"PRIMARY_500": "#70ff5d",
+		"PRIMARY_500": "#1fa80d",
 		"PRIMARY_660": "#000000",
-		"BRAND_260": "#70ff5d",
-		"BRAND_360": "#70ff5d",
-		"BRAND_500": "#70ff5d",
+		"BRAND_260": "#1fa80d",
+		"BRAND_360": "#1fa80d",
+		"BRAND_500": "#1fa80d",
 		"BRAND_560": "#FFFFFF",
-		"RED_400": "#70ff5d",
-		"GREEN_360": "#70ff5d",
+		"RED_400": "#1fa80d",
+		"GREEN_360": "#1fa80d",
 		"WHITE_500": "#FFFFFF",
-		"PLUM_1": "#70ff5d",
-		"PLUM_3": "#70ff5d",
+		"PLUM_1": "#1fa80d",
+		"PLUM_3": "#1fa80d",
 		"PLUM_6": "#FFFFFF",
-		"PLUM_9": "#70ff5d",
+		"PLUM_9": "#1fa80d",
 		"PLUM_11": "#000000",
-		"PLUM_13": "#70ff5d",
-		"PLUM_16": "#70ff5d70",
+		"PLUM_13": "#1fa80d",
+		"PLUM_16": "#1fa80d70",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#000000",
 		"PLUM_19": "#3A3A3A",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#2A2A2A",
 		"PLUM_24": "#000000",
-		"ROLE_DEFAULT": "#70ff5d70"
+		"ROLE_DEFAULT": "#1fa80d70"
 	},
 	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
