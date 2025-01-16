@@ -14,9 +14,9 @@
 		"iconpack": "solarbroken"
 	},
 	"background": {
-		"blur": 0.6,
+		"blur": 0,
 		"url": "https://raw.githubusercontent.com/I-am-TURBO/RBW/3fdb357cf25930dc227fdfa2a27805bf3bde80e3/images.jpg",
-		"alpha": 0.45
+		"alpha": 0.9
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
