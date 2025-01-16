@@ -1,5 +1,5 @@
 {
-	"name": "RBW AMOLED",
+	"name": "RBW AMOLED BG",
 	"description": "AMOLED black base, using red, white & grey for everything else",
 	"version": "1",
 	"authors": [
@@ -13,7 +13,7 @@
 		"mentionLineColor": "#fff",
 		"iconpack": "solarbroken"
 	},
-	"Background": {
+	"background": {
 		"blur": 0.6,
 		"url": "https://raw.githubusercontent.com/I-am-TURBO/RBW/3fdb357cf25930dc227fdfa2a27805bf3bde80e3/images.jpg",
 		"alpha": 0.45
